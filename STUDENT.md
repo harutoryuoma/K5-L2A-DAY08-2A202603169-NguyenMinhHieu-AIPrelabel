@@ -2,7 +2,7 @@
 
 - Họ và tên: Nguyễn Minh Hiếu
 - MSHV: 2A202603169
-- Lớp: L2
+- Lớp: L2A
 - Tài khoản GitHub: harutoryuoma
 - Repo bài nộp: https://github.com/harutoryuoma/K5-L2A-DAY08-2A202603169-NguyenMinhHieu-AIPrelabel
 - Commit chốt bài: Chưa tạo
