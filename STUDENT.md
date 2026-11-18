@@ -5,7 +5,7 @@
 - Lớp: L2A
 - Tài khoản GitHub: harutoryuoma
 - Repo bài nộp: https://github.com/harutoryuoma/K5-L2A-DAY08-2A202603169-NguyenMinhHieu-AIPrelabel
-- Commit chốt bài: Chưa tạo
+- Commit chốt bài: 6d33a21147361f52321769352533ed4888dc5772
 - Máy: Windows 11, Ubuntu WSL2, Intel Core i7, RAM 16GB, NVIDIA MX350 2GB
 - GPU inference: Google Colab CUDA
 - CVAT (Docker): v2.81.0
