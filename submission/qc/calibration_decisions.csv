@@ -1,1 +1,4 @@
 case_id,image,nguon,van_de,quyet_dinh,quy_tac_ghi_vao_guideline,phien_ban_guideline
+CAL-01,img_013.jpg|img_017.jpg,loi_may,Model tao bbox three_wheeler qua rong hoac chong len phuong tien khac,Moi xe ba banh la mot instance rieng; bbox phai om sat mot xe,"Khi hai xe chong lan, khong dung mot bbox bao ca hai xe; kiem tra instance va canh bbox",v1.1
+CAL-02,img_003.jpg,cau_hoi_mo,Xe ba banh cho hang co mai che va hang hoa nam trong thung,"Gan three_wheeler cho xe ba banh; bbox bao cac bo phan cua xe, khong mo rong theo hang hoa nho ra","Bbox three_wheeler gom khung, mai, than va banh xe; khong gom hang hoa nho ra ngoai",v1.1
+CAL-03,img_018.jpg|img_021.jpg,can_review,Nguoi va xe may o xa bi che khuat trong canh giao thong dong,Kiem tra tung person va motorbike rieng; khong tu suy doan vat khong nhin ro,Quet toan anh truoc khi xem bbox AI; danh dau can_review voi vat nho hoac che khuat kho xac nhan,v1.1

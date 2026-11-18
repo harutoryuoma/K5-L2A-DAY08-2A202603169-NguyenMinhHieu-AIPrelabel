@@ -1,0 +1,9 @@
+image,object_id,error_type,reviewer,note
+img_003.jpg,21,sai_vi_tri_kich_thuoc,Nguyen Minh Hieu,Thung xe ba banh: bbox cat mat phan mai che nhin thay o mep trai (mai bat dau gan x=235 trong khi box bat dau gan x=291); can chinh lai cho om sat xe.
+img_006.jpg,,khong,Nguyen Minh Hieu,Da doi chieu anh goc va overlay; chua thay loi co the khang dinh. Nhieu nguoi va xe xa/che khuat; can kiem tra zoom neu release.
+img_013.jpg,,khong,Nguyen Minh Hieu,Da doi chieu anh goc va overlay; bbox chinh cua tuk-tuk om phuong tien. Cac vat nho phia nen va nhan xe xa van co do bat dinh.
+img_014.jpg,,khong,Nguyen Minh Hieu,"Da doi chieu anh goc va overlay, chua thay loi ro rang. Cac box xe sat bien va nguoi phia xa can soat xet tiep neu release."
+img_017.jpg,143,sai_vi_tri_kich_thuoc,Nguyen Minh Hieu,"Bbox #143 three_wheeler trai qua nhieu xe ba banh (vung tu xe giua sang xe truoc), khong om sat mot instance. Phai xac minh va dieu chinh/loai box trung trong CVAT."
+img_018.jpg,,khong,Nguyen Minh Hieu,"Da doi chieu anh goc va overlay; bus o xa co bbox, chua phat hien loi chac chan. Canh dong nguoi/xe may nho han che do tin cay cua QC bang anh."
+img_021.jpg,,khong,Nguyen Minh Hieu,Da doi chieu anh goc va overlay; xe bus xa da co bbox #194. Chua tim thay loi chac chan trong cac box de thay; nhieu rider nho co the con sot.
+img_035.jpg,,khong,Nguyen Minh Hieu,"Da doi chieu anh goc va overlay; tuk-tuk do xa co bbox #478, chua thay loi chac chan. Cac nguoi che khuat/phuong tien rat nho can kiem tra tiep."

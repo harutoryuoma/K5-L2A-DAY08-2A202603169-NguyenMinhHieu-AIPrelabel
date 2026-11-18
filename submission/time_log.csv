@@ -1,2 +1,3 @@
 step,images,minutes,note
 gold_manual,4,30,Manual annotation of 4 gold images in CVAT
+batch_review,24,100,Human review of AI prelabels in CVAT
